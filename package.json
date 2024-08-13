@@ -1,5 +1,5 @@
 {
-  "name": "ps-shared-library",
+  "name": "@HinPublicis/ps-shared-library",
   "version": "1.0.0",
   "description": "shared librabry",
   "main": "index.js",
