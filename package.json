@@ -4,7 +4,7 @@
   "description": "shared librabry",
   "main": "index.js",
   "publishConfig": {
-    "@HinPublicis:registry": "https://npm.pkg.github.com"
+    "@HinPublicis:registry": "https://npm.pkg.github.com/@HinPublicis"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
