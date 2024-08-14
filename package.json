@@ -6,6 +6,9 @@
   "repository": {
     "url": "https://github.com/HinPublicis/ps-shared-library.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@HinPublicis"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
