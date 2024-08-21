@@ -1,13 +1,13 @@
 {
   "name": "@hinpublicis/ps-shared-library",
   "version": "1.0.3",
-  "description": "shared librabry",
+  "description": "Shared Library",
   "main": "index.js",
   "repository": {
-    "url": "https://github.com/HinPublicis/ps-shared-library.git"
+    "url": "https://github.com/hinpublicis/ps-shared-library.git"
   },
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@HinPublicis"
+    "registry": "https://npm.pkg.github.com/@hinpublicis"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
